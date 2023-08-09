@@ -1,26 +1,25 @@
 import { styled } from "styled-components";
 
 export const Container = styled.div`
-
   width: auto;
   display: flex;
   justify-content: space-between;
   align-items: center;
   gap: 10px;
   padding: 20px;
-  background-color: var(--blue-200);
+  background-color: #082449;
 
   h3 {
     font-size: 2rem;
-    color: var(--blue-950);
-    font-weight: 500;
+    color: #fff;
+    font-weight: 600;
   }
 
   .list a,
   li {
     list-style: none;
     text-decoration: none;
-    color: var(--blue-800);
+    color: #fff;
   }
   .list ul {
     display: flex;
@@ -34,6 +33,8 @@ export const Container = styled.div`
     background-color: var(--blue-100);
     padding: 5px;
     border-radius: 10px;
+    color: var(--blue-800);
+    font-weight: bold;
   }
   .cv-section {
     display: none;
@@ -55,6 +56,7 @@ export const Container = styled.div`
     .cv-section img {
       width: 40px;
       height: 40px;
+      color: #fff;
     }
     .list ul {
       display: none;
