@@ -13,13 +13,12 @@ export function Main() {
           desenvolvedora Front-End.
         </h1>
         <p>
-          Admirador da tecnologia e blablablablablablabla, comecei a me
-          interessar pelo meio desde pequeno quando jogava videogame. Hoje,
-          procuro aprimorar meus conhecimentos em desenvolvimento de software,
-          estou estudando Java. Lorem ipsum dolor sit amet consectetur
-          adipisicing elit. Assumenda quia perferendis esse enim ipsum autem
-          ducimus sint nobis. Voluptatem fuga aspernatur suscipit explicabo
-          adipisci voluptatibus at voluptas reprehenderit quaerat! Ipsa.
+          Sou apaixonada por tecnologia, e estou buscando constantemente expandir
+          meus horizontes nessa área. A abordagem prática sempre foi
+          meu ponto forte, e aprendo muito mais aplicando do que apenas lendo. A
+          aprendizagem contínua é minha âncora, e meu foco é crescer
+          profissionalmente, aproveitando cada oportunidade para aprimorar minha
+          capacidade de enfrentar desafios tecnológicos complexos.
         </p>
       </section>
     </Container>

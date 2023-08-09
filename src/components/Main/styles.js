@@ -12,8 +12,8 @@ export const Container = styled.div`
   }
   .text p {
     font-size: 1.3rem;
-    font-weight: 200;
-    color: var(--blue-500);
+    font-weight: 300;
+    color: var(--blue-800);
     margin-top: 10px;
   }
 
