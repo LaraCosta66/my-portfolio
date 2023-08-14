@@ -7,7 +7,7 @@ export const Container = styled.div`
   align-items: center;
   gap: 10px;
   padding: 20px;
-  background-color: #082449;
+  background-color: #262c40;
 
   h3 {
     font-size: 2rem;

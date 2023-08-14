@@ -14,7 +14,7 @@ export function Header() {
             <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="#edu">Education</a>
+            <a href="#education">Education</a>
           </li>
           <li>
             <a href="#projects">Projects</a>
