@@ -28,7 +28,7 @@ export function ContactForm() {
             </span>
             <span>
               <img src={marker} alt="map-marker" />
-              <p>São Paulo</p>
+              <p>São Paulo, SP</p>
             </span>
           </div>
         </div>

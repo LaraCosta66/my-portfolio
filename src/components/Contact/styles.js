@@ -90,7 +90,6 @@ export const Content = styled.div`
       border-radius: 12px;
       border: 0;
       color: #eee;
-      cursor: pointer;
       font-size: 1.25rem;
       height: 60px;
       text-align: center;
@@ -147,4 +146,7 @@ export const Title = styled.h1`
   font-size: 3rem;
   font-weight: 600;
   color: #334155;
+  @media(max-width:720px){
+    font-size: 2.5rem;
+  }
 `;
