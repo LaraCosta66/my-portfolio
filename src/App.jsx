@@ -3,6 +3,7 @@ import { ContactForm } from "./components/Contact";
 import { Education } from "./components/Education";
 import { Header } from "./components/Header";
 import { Main } from "./components/Main";
+import { Projects } from "./components/Projects";
 import { GlobalStyles } from "./styles/global";
 
 export function App() {
@@ -12,6 +13,7 @@ export function App() {
       <Main/>
       <AboutMe/>
       <Education/>
+      <Projects/>
       <ContactForm/>
       <GlobalStyles />
     </>
