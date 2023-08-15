@@ -4,6 +4,7 @@ import { Education } from "./components/Education";
 import { Header } from "./components/Header";
 import { Main } from "./components/Main";
 import { Projects } from "./components/Projects";
+import { Skills } from "./components/Skills";
 import { GlobalStyles } from "./styles/global";
 
 export function App() {
@@ -12,6 +13,7 @@ export function App() {
       <Header />
       <Main/>
       <AboutMe/>
+      <Skills/>
       <Education/>
       <Projects/>
       <ContactForm/>

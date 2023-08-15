@@ -40,8 +40,8 @@ export const Container = styled.div`
       padding: 20px;
       gap: 15px;
       img {
-        width: 400px;
-        height: 260px;
+        max-width: 360px;
+        height: 250px;
       }
     }
     .description {
