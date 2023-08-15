@@ -1,6 +1,7 @@
 import { AboutMe } from "./components/About";
 import { ContactForm } from "./components/Contact";
 import { Education } from "./components/Education";
+import { Footer } from "./components/Footer";
 import { Header } from "./components/Header";
 import { Main } from "./components/Main";
 import { Projects } from "./components/Projects";
@@ -17,6 +18,7 @@ export function App() {
       <Education/>
       <Projects/>
       <ContactForm/>
+      <Footer/>
       <GlobalStyles />
     </>
   );

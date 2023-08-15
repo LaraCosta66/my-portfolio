@@ -51,7 +51,7 @@ const Items = [
 export function Skills() {
   return (
     <>
-      <Title>Skills</Title>
+      <Title id="skills">Skills</Title>
       <Container>
         {Items.map((item, index) => (
           <div key={index} className="skills">
