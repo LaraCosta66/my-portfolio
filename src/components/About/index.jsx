@@ -1,7 +1,6 @@
 import { Container } from "./styles";
 import githubLogo from "../../assets/github.svg";
 import linkedinLogo from "../../assets/linkedin.svg";
-import file from "../../assets/file.svg";
 export function AboutMe() {
   return (
     <Container id="about-me">
@@ -24,14 +23,13 @@ export function AboutMe() {
           enfrentar os próximos capítulos do meu percurso, sempre explorando,
           aprendendo e construindo um futuro brilhante na área de tecnologia.
           <br />
-          
         </p>
 
         <p>
-              Fique à vontade para entrar em contato comigo a qualquer momento.
-              Estou ansiosa para trocar conhecimento e colaborar em projetos
-              empolgantes!
-          </p>
+          Fique à vontade para entrar em contato comigo a qualquer momento.
+          Estou ansiosa para trocar conhecimento e colaborar em projetos
+          empolgantes!
+        </p>
       </span>
       <div className="list-social">
         <span>
@@ -44,15 +42,6 @@ export function AboutMe() {
           <img src={linkedinLogo} alt="icone-linkedin" />
           <a href="https://www.linkedin.com/in/laracosta64/" target="__blank">
             <p>Linkedin</p>
-          </a>
-        </span>
-        <span>
-          <img src={file} alt="file-icon" />
-          <a
-            href="https://drive.google.com/file/d/1b5dbjjqgRc6E547XpC-tpalMBv2eqprd/view"
-            target="__blank"
-          >
-            <p>CV</p>
           </a>
         </span>
       </div>

@@ -14,7 +14,7 @@ const EducationArr = [
   },
   {
     img: badgeCP,
-    nome: "AWS Cloud Practioner",
+    nome: "AWS Cloud Practitioner",
     link: "https://www.credly.com/badges/d91da8f5-e8d8-4dd3-83ff-77b4f3d6653f/public_url",
     ano: "Jul/2023",
     empresa: "AWS",
@@ -31,7 +31,7 @@ const EducationArr = [
 export function Education() {
   return (
     <Container id="education">
-      <h1>Formação de Acadêmica</h1>
+      <h1>Formação Acadêmica</h1>
       <div className="content">
         {EducationArr.map((formation, index) => (
           <div className="education" key={index}>
