@@ -1,5 +1,5 @@
 import { Container, Title,ButtonDiv } from "./styles";
-import weatherApp from '../../assets/weather-app.png';
+import weatherApp from '../../assets/weatherApp.png';
 import gameApp from "../../assets/game.png"
 import portfolioApp from "../../assets/portfolio-1.png"
 
@@ -12,7 +12,7 @@ const workExp = [
     deploy_link: "https://weather-7tny2egzw-laracosta66.vercel.app/",
   },
   {
-    img: gameApp  ,
+    img: gameApp,
     title: "Rock Paper Scissors Game",
     language: "Javascript",
     repo_link: "https://github.com/LaraCosta66/TOP-game",
