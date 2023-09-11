@@ -9,7 +9,7 @@ const workExp = [
     title: "Weather APP",
     language: "Javascript",
     repo_link: "https://github.com/LaraCosta66/weather-app",
-    deploy_link: "https://weather-7tny2egzw-laracosta66.vercel.app/",
+    deploy_link: "https://weather-app-beige-three.vercel.app/",
   },
   {
     img: gameApp,
